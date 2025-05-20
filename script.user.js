@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         ModrinthSinicization
-// @version      1.0.1
+// @version      1.0.2
 // @description  一个汉化Modrinth网页的的脚本，将 Modrinth 网站的内容翻译成中文。
 // @author       YlovexLN, ForgeStove
 // @match        https://modrinth.com/*
 // @grant        none
 // @license      GPL-3.0
 // @supportURL https://github.com/ForgeStove/ModrinthSinicization/issues
-// @downloadURL https://github.com/ForgeStove/ModrinthSinicization/blob/main/script.user.js
-// @updateURL https://github.com/ForgeStove/ModrinthSinicization/blob/main/script.user.js
+// @downloadURL https://github.com/ForgeStove/ModrinthSinicization/raw/refs/heads/main/script.user.js
+// @updateURL https://github.com/ForgeStove/ModrinthSinicization/raw/refs/heads/main/script.user.js
 // ==/UserScript==
 
 (function () {
