@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ModrinthSinicization
-// @version      1.0.2
+// @version      1.0.3
 // @description  一个汉化Modrinth网页的的脚本，将 Modrinth 网站的内容翻译成中文。
 // @author       YlovexLN, ForgeStove
 // @match        https://modrinth.com/*
@@ -353,6 +353,24 @@
         "Create new":"新建",
         "Project updated":"项目已更新",
         "Your project has been updated.":"您的项目已经更新",
+        "Moderation":"审核",
+        "Project status":"项目状态",
+        "Modrinth's team of content moderators work hard to review all submitted projects. Typically, you can expect a new project to be reviewed within 24 to 48 hours. Please keep in mind that larger projects, especially modpacks, may require more time to review. Certain holidays or events may also lead to delays depending on moderator availability. Modrinth's moderators will leave a message below if they have any questions or concerns for you.":"Modrinth 的内容审核员团队努力审查所有提交的项目。通常，您可以在 24 到 48 小时内审核新项目。请记住，较大的项目，尤其是整合包，可能需要更多时间来审核。某些节假日或活动也可能导致延迟，具体取决于版主。如果 Modrinth 的版主对您有任何问题或疑虑，他们会在下面留言。",
+        "Current visibility":"当前可见性",
+        "Not listed in search results":"未在搜索结果中列出",
+        "Not listed on the profiles of members":"未在成员个人资料中列出",
+        "Not accessible with a direct link":"无法通过直接链接访问",
+        "Messages":"消息",
+        "This is a private conversation thread with the Modrinth moderators. They may message you with issues concerning this project. This thread is only checked when you submit your project for review. For additional inquiries, contact":"这是与 Modrinth 版主的私人对话线程。他们可能会向您发送有关此项目的问题的消息。只有在您提交项目以供审核时，才会选中此线程。如有其他疑问，请联系 ",
+        "Insufficient Description":"描述不足",
+        "If your review has taken more than 48 hours, check our":"如果你的审核超过了 48 小时，请查看我们的",
+        "for moderation delays.":"以了解审核延迟的情况。",
+        "support article on review times":"关于审核时间的支持文章",
+        "submitted the project for review.":"提交了项目进行审核。",
+        "changed the project's status from":" 改变项目的状态从",
+        "to":"到",
+        "Reply to thread...":"回复线程...",
+
 
         "Discover content": "发现内容",
         "Host a server": "托管服务器",
