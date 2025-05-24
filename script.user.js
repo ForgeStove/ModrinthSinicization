@@ -370,7 +370,6 @@
         "changed the project's status from":" 改变项目的状态从",
         "to":"到",
         "Reply to thread...":"回复线程...",
-        "Reply to thread...":"回复线程...",
         "Open in new tab":"在新标签页中打开",
         "Copy link":"复制链接",
 
