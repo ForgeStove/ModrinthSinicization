@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ModrinthSinicization
-// @version      1.0.3
+// @version      1.0.4
 // @description  一个汉化Modrinth网页的的脚本，将 Modrinth 网站的内容翻译成中文。
 // @author       YlovexLN, ForgeStove
 // @match        https://modrinth.com/*
@@ -370,6 +370,9 @@
         "changed the project's status from":" 改变项目的状态从",
         "to":"到",
         "Reply to thread...":"回复线程...",
+        "Reply to thread...":"回复线程...",
+        "Open in new tab":"在新标签页中打开",
+        "Copy link":"复制链接",
 
 
         "Discover content": "发现内容",
